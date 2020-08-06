@@ -1,0 +1,23 @@
+{
+  "name": "clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vadim2107/clone.git"
+  },
+  "author": "Vadim Zinoviev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vadim2107/clone/issues"
+  },
+  "homepage": "https://github.com/Vadim2107/clone#readme",
+  "dependencies": {
+    "@vadim2107/ajs": "^1.0.0"
+  }
+}
